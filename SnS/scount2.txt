@@ -1,0 +1,1 @@
+https://informatics.msk.ru/mod/statements/view3.php?id=270&chapterid=224#1 переделанное решение задачи scount.c, так как лень переписывать заново :)
